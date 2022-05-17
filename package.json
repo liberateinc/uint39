@@ -1,0 +1,19 @@
+{
+  "name": "uint39",
+  "version": "1.0.0",
+  "description": "39-bit UInts for Bitcoin BIP-65 scripting",
+  "main": "uint39.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liberateinc/uint39.git"
+  },
+  "author": "Liberate, Inc.",
+  "license": "MIT",
+  "homepage": "https://github.com/liberateinc/uint39",
+  "devDependencies": {
+    "tape": "^5.5.3"
+  }
+}
